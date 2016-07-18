@@ -1,0 +1,19 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "install": "npm install -g riot-cli",
+    "start": "riot public/components/ public/components.js && node server.js"
+  },
+  "author": "jairo@galax.be",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mt-files-downloader": "^0.2.5",
+    "nedb": "^1.8.0",
+    "request": "^2.73.0"
+  }
+}

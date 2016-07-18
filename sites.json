@@ -1,0 +1,34 @@
+{
+  "sites": [
+    {
+      "name": "vDrive",
+      "url": "vdrive.netelip.com",
+      "port": 443
+    },
+    {
+      "name": "vDesktop",
+      "url": "vdesktop.netelip.com",
+      "port": 443
+    },
+    {
+      "name": "Netelip Web",
+      "url": "netelip.com",
+      "port": 80
+    },
+    {
+      "name": "Netelip Cloud",
+      "url": "cloud.netelip.com",
+      "port": 443
+    },
+    {
+      "name": "none",
+      "url": "netelippp.com",
+      "port": 80
+    },
+    {
+      "name": "Sip",
+      "url": "sip.netelip.com",
+      "port": 5060
+    }
+  ]
+}
